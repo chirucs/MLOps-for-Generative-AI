@@ -17,7 +17,7 @@ Generative AI systems bring new challenges like model selection, prompt engineer
 1. **Setup**: Ensure you have a Google Cloud account and Vertex AI enabled.
 2. **Clone the Repo**: 
    ```bash
-   git clone https://github.com/chirucs/vertex-ai-genai-mlops.git
+   git clone https://github.com/chirucs/MLOps-for-Generative-AI.git
    ```
 3. **Explore Notebooks**: Check out examples for prompt engineering and model tuning.
 
